@@ -6,7 +6,7 @@ diameter=66.4;
 pitch=0.6;
 radius=diameter/2.0;
 
-//difference() {
+// difference() {
 //    metric_thread (diameter=diameter, pitch=pitch, length=2, neck=4);
 //    translate([0,0,-0.05]) cylinder(r=radius-1.5,h=7, $fn=segments(67));
 //}
